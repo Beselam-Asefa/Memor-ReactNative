@@ -5,11 +5,11 @@
 ## Discription
 
 
-- It is an app which helps people to track their medication,suppliment and water intake for a healthy life. 
+- It is an app which helps people to track their medications and suppliments for a healthy life. 
 It helps peoples  to follow their medication regularly as well as for an easy follow up 
 of their medication by thier close family members or anyone concerned. In addition, It helps for 
-a normal person to track his vitamins and water intake per day whereby he can have a healthy life style.
-- the user get notification based on the time given for taking the moedication, incase the user forget to take the medication 
+a normal person to track his vitamins whereby he can have a healthy life style.
+-(backlog feature) the user get notification based on the time given for taking the moedication, incase the user forget to take the medication 
 th app will notify the family memeber which will be added by the user. this feature will not work for the suppliment and water. 
 - the prototype is made using Adobe XD
 
@@ -18,8 +18,8 @@ th app will notify the family memeber which will be added by the user. this feat
 
 ## User Groups
 
-- All age, becouse everyage group can have a medication or suppliment to take .
-
+- All age, becouse every age group can have a medication or suppliment to take .
+ 
 ---
 
 ##  User Story
