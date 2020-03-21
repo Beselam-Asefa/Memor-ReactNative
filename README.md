@@ -15,6 +15,19 @@ th app will notify the family memeber which will be added by the user. this feat
 
 
 ---
+## Features,Frameworkss and technologies      
+  
+ 
+ - React Native    
+ - Expo Dev enviroment
+ - NativeBase
+ - Push Notification
+ - Validation.js
+ - React Navigation 5
+ - Hooks and context
+ - Image Picke
+ 
+ 
 
 ## User Groups
 
