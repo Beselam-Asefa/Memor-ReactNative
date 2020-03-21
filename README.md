@@ -39,7 +39,7 @@ supplements type .
 
 ------
 
-
+## The App prototype 
 
 
 
@@ -52,9 +52,12 @@ supplements type .
 --   - <img src="Prototype/Spending – 6.png" width="350">    --      <img src="Prototype/Spending – 7.png" width="350">  
                                           
 ------------
+.
 
 
 ####  [Check the resposive layout at adobe using this link  ](https://xd.adobe.com/view/9257ab8e-0f3f-4a26-4e79-f13fa179e934-e466/)
+
+.
 
 ---
 
