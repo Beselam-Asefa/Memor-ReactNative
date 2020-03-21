@@ -18,12 +18,30 @@ th app will notify the family memeber which will be added by the user. this feat
 
 ## User Groups
 
-- All age but elderly peoples in particular.
+- All age, becouse everyage group can have a medication or suppliment to take .
 
 ---
 
- 
- 
+##  User Story
+---
+As a user, who can easily forget,I want to be reminded about my medication and supplements so that I can take them on time.
+
+--
+As a user, I want the option of adding my medication and supplements  so that I can meet my daily target.
+
+--
+As a user, I want the option of sharing my medication type, supplements type and water level with my family so that they can help me to meet my daily target.
+
+---
+As a user, I want the option of editing my medication type and
+supplements type .
+
+--
+
+
+
+
+
 --   - <img src="Prototype/iPhone X-XS – 4.png" width="350">    --      <img src="Prototype/iPhone X-XS – 5.png" width="350">   
 --
 --   - <img src="Prototype/Spending – 8.png" width="350">    --      <img src="Prototype/Spending – 9.png" width="350">  
