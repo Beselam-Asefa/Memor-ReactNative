@@ -39,7 +39,7 @@ supplements type .
 
 ------
 
-##  User Interview questions 
+##  Test Users Interview questions 
 
 1) What do you think about the idea of medication and supplement  tracker App?
 2) What do you think about the prototype?
@@ -50,7 +50,8 @@ supplements type .
 7) Why do you need to use this app?
 8) Which features do you like most?
 9) What might keep people from using this product?
-10) What more features do you like to add in this product?
+10) What more features do you like to be added in this product?
+
 
 -------
 ## The App prototype 
@@ -74,6 +75,10 @@ supplements type .
 .
 
 ---
+
+
+##  [App Demo on youtube  ](https://www.youtube.com/watch?v=GrBUhhcXE-0&feature=youtu.be)
+
 
 
 
