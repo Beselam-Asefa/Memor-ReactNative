@@ -11,8 +11,14 @@ of their medication by thier close family members or anyone concerned. In additi
 a normal person to track his vitamins and water intake per day whereby he can have a healthy life style.
 - the user get notification based on the time given for taking the moedication, incase the user forget to take the medication 
 th app will notify the family memeber which will be added by the user. this feature will not work for the suppliment and water. 
-- the prototype is done using Adobe XD
+- the prototype is made using Adobe XD
 
+
+---
+
+## User Groups
+
+- All age but elderly peoples in particular.
 
 ---
 
