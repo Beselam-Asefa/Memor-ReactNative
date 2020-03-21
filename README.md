@@ -15,7 +15,7 @@ th app will notify the family memeber which will be added by the user. this feat
 
 
 ---
-## Features,Frameworkss and technologies      
+## Features, Framework and technologies      
   
  
  - React Native    
@@ -27,7 +27,7 @@ th app will notify the family memeber which will be added by the user. this feat
  - Hooks and context
  - Image Picke
  
- 
+-----------
 
 ## User Groups
 
