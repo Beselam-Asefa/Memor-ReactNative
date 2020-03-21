@@ -26,13 +26,13 @@ th app will notify the family memeber which will be added by the user. this feat
 
 - As a user, who can easily forget,I want to be reminded about my medication and supplements so that I can take them on time.
 
---
+
 - As a user, I want the option of adding my medication and supplements  so that I can meet my daily target.
 
---
+
 - As a user, I want the option of sharing my medication type, supplements type and water level with my family so that they can help me to meet my daily target.
 
----
+
 - As a user, I want the option of editing my medication type and
 supplements type .
 
