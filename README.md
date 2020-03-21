@@ -39,6 +39,20 @@ supplements type .
 
 ------
 
+##  User Interview questions 
+
+1) What do you think about the idea of medication,supplement and daily water intake tracker App?
+2) What do you think about our prototype?
+3) Do you think the prototype reflects your idea of a tracker app?
+4) Why do you think someone would use this product?
+5) Which age group would use this product?
+6) Can you see yourself using this product?
+7) Why do you need to use this app?
+8) Which features do you like most?
+9) What might keep people from using this product?
+10) What more features do you like to add in this product?
+
+-------
 ## The App prototype 
 
 
@@ -60,4 +74,7 @@ supplements type .
 .
 
 ---
+
+
+
 
